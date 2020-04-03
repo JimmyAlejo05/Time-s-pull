@@ -24,7 +24,7 @@
 [URI][Plmt] exercises solved in java
 ![PRO](https://1.bp.blogspot.com/-0KN9gvAJ_bU/VwGPkFtEP1I/AAAAAAAAAMc/xBPIvDbfgZgOigUHekupoGq9SdEuhZmuA/s1600/nic3b1o-con-pc-gif1.gif)
 
-| name  | README |
+| NUMBER  | NAME AND LINK |
 | ------ | ------ |
 |exercise 1| [Array 123 - 1534][PlDb] |
 |exercise 2| [Pomekons Battle - 2221][PlGh] |
@@ -41,7 +41,8 @@
 # [Times Pull][Pltm]
 ![image info](https://i.pinimg.com/564x/73/d4/f8/73d4f8b6f219cbb34c8d46acf1f333b3.jpg)
 
-It is about the use of data structure in a graphic environment for ultimate matches and this has a connection to a database.
+It is about the use of data structure in a graphic environment for ultimate matches and this has a connection to a database 
+NOTE: without using java classes.
 
 -list: it is used for the squad of the players of each ultimate team.
 
@@ -49,6 +50,25 @@ It is about the use of data structure in a graphic environment for ultimate matc
 
 -Queue: it is used for team confrontations.
 
+ ###  [Covid-19][Plcd]
+  
+It is a project where I use data persistence, and java classes to call the Likedlist, to see the number of people infected and killed by the coronavirus in Latin America.
+
+![image info](https://www.labourstart.org/sars-cov-19.jpg)
+
+ 
+### [Sorting Algorithms][Plao]
+sorting algorithms in python.
+| name  |
+| ------ | 
+|Bubble|
+|Bidirectional bubble|
+|Selection|
+|Insertion|
+|Quicksort|
+|Shell|
+|Gnome|
+|comb sort|
 
    [PlDb]: <https://www.urionlinejudge.com.br/judge/es/problems/view/1534>
    [PlGh]: <https://www.urionlinejudge.com.br/judge/es/problems/view/2221>
@@ -61,8 +81,8 @@ It is about the use of data structure in a graphic environment for ultimate matc
    [PlLu]: <https://www.urionlinejudge.com.br/judge/en/problems/view/2542>
    [Pltm]:<https://github.com/JimmyAlejo05/Time-s-pull>
    [Plmt]:<https://github.com/JimmyAlejo05/URI>
+   [Plcd]: <https://github.com/JimmyAlejo05/Analysis-and-design-of-algorithms>
+   [Plao]: <https://github.com/JimmyAlejo05/data_ordering>
    
   ### thanks for reading all my information ❤
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
